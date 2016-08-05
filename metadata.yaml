@@ -1,0 +1,28 @@
+_repo: Ars-Recte-Vivendi--Being-Essays-Contributed-to--The-Easy-Chair-_7445
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Curtis, George William
+    birthdate: 1824
+    deathdate: 1892
+    gutenberg_agent_id: '2048'
+    url: http://www.gutenberg.org/2009/agents/2048
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Curtis
+description: ''
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7445'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Conduct of life'
+- GITenberg
+tableOfContents: Extravagance at college -- Brains and brawn -- Hazing -- The soul
+  of the gentleman -- Theatre manners -- Woman's dress -- Secret societies -- Tobacco
+  and health -- Tobacco and manners -- Duelling -- Newspaper ethics.
+title: Ars Recte Vivendi; Being Essays Contributed to "The Easy Chair"
+url: http://www.gutenberg.org/ebooks/7445
